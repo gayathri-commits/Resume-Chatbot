@@ -1,4 +1,4 @@
-````markdown
+
 # 💬 Resume Q&A Chatbot (Groq + LLaMA3)
 
 A simple and powerful chatbot that allows users to upload their **resume (PDF)** and ask smart questions about it! This project uses **Streamlit** for the frontend and **Groq's LLaMA3 model** for blazing fast responses 🚀
@@ -24,7 +24,7 @@ A simple and powerful chatbot that allows users to upload their **resume (PDF)**
    ```bash
    git clone https://github.com/your-username/resume-chatbot.git
    cd resume-chatbot
-````
+
 
 2. Install dependencies
 
@@ -58,15 +58,10 @@ A simple and powerful chatbot that allows users to upload their **resume (PDF)**
 ## 🔒 Note
 
 * This chatbot **doesn't store any data**. All processing happens live.
-* Ensure your Groq API key has enough credits!
+* Ensure you enter your Groq API!
 
 ## 📸 Preview
 
 ![App Screenshot](screenshot.png)
-
-## 🙌 Credits
-
-* Powered by [Groq](https://groq.com/)
-* Built by \[Your Name] as part of a GenAI project 💡
 
 ---
